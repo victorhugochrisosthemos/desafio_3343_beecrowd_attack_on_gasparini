@@ -6,7 +6,7 @@
 n1 = input().split()
 titas, muralhas = n1
 titas = int(titas)
-muralhas = int(titas)
+muralhas = int(muralhas)
 n2 = input()
 n3 = input().split()
 p,m,g = n3
